@@ -2,7 +2,9 @@
 # Data Model Implementation in Spring Application
 
 This repository contains the implementation of the data model in a Spring application. The data model includes entities that are used to represent data in the application.
-Structure
+
+# Structure
+
 entities:
 Each entity class represents a table in the database and contains fields that correspond to the columns in that table.
 Each entity class is annotated with @Entity to indicate that it is a JPA entity.
