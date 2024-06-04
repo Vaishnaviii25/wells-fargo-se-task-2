@@ -1,5 +1,5 @@
 # Task 2 
-##Data Model Implementation in Spring Application
+# Data Model Implementation in Spring Application
 
 This repository contains the implementation of the data model in a Spring application. The data model includes entities that are used to represent data in the application.
 Structure
